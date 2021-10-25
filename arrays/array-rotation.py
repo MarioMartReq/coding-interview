@@ -40,7 +40,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         k = k % len(nums)
-        nums[0:len(nums)] = nums[-k:len(nums)]+nums[-len(nums):-k]
+        nums[:] = nums[-k:]+nums[:-k]
 
 
 def test():
