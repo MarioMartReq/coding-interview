@@ -10,6 +10,7 @@ Hi, this is a repo to keep track of all the coding exercises I have done. I'll t
 - [Remove duplicates](arrays/remove-duplicates.py): Remove the duplicates inside of a sorted list. This contains the generic one-line used to remove duplicates.
 - [Matrix rotation](arrays/rotate-matrix.py): Rotate a matrix 90º. The solution inside is done in a single line. Reverse + Transposition = Rotation.
 - [Two sum target](arrays/two-sum-target.py): Find two elements inside of an array that by adding them you obtain the target number.
+- [Zeroes to the back](arrays/zero-to-back.py): Move all zeroes in a list to the back without altering the order of the rest of the elements.
 
 ### Algorithms.
 
