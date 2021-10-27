@@ -26,5 +26,7 @@ Hi, this is a repo to keep track of all the coding exercises I have done. I'll t
 
 - [FizzBuzz](math/fizzbuzz.py): Given a number, write a list of number up to that given numb and if it's divisible between 3 or/and 5 you write "Fuzz" or/and "Bizz" respectively.
 - [Roman to integer](math/roman-to-int.py): Program to transform from roman to integer. Uses an inline iterator and a **dictionary**.
+- [Is N a power of M?](math/is_n_power_m.py): Given M and N, say if N is a power of M. Done without loops.
+- [Primes til M](math/primes.py): Given a number M, list all the prime numbers smaller than that number. Implemented with the **Sieve of Eratosthenes**.
 
 _This is the place where I come to cry after I forget how to Python after some months doing just yamls_
