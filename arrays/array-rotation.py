@@ -34,6 +34,10 @@ Could you do it in-place with O(1) extra space?
 
 
 # I aimed directly for the fastest and most memory efficient solution by modifiying the array in place
+
+'''Complexity O[1]'''
+
+
 class Solution:
     def rotate(nums, k):
         """
